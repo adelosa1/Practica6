@@ -4,7 +4,7 @@ become: true
 vars:
       gitdir: "/tmp/Bookzy
 tasks:
-      - name: "Instalacion Tomcat"
+      name: "Instalacion Tomcat"
       apt: 
           name:tomcat9
           update_cache: yes
