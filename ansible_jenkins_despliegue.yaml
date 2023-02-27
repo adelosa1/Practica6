@@ -1,5 +1,5 @@
 - name: "Configurar el tomcat remoto y desplegar el WAR"
-hosts: ApacheServer3
+hosts: ApacheServer2
 become: true
 vars:
       gitdir: "/tmp/Bookzy
