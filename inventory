@@ -1,0 +1,3 @@
+JenkinsServer2 ansible_host=100.25.138.105 ansible_user=ec2_user
+ApacheServer2 ansible_host=100.26.133.197 ansible_user=ec2_user
+local ansible_connection=local
